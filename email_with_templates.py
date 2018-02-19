@@ -5,7 +5,7 @@ from string import Template
 
 
 MY_ADDRESS = "tinku.is.koushik@gmail.com"
-PASSWORD = "9441124276"
+PASSWORD = ""
 
 def get_contacts(filename):
     """
